@@ -51,6 +51,11 @@ Ahora verás una ventana con fondo azul. Simplemente escribe (o copia y pega) el
 irm https://bit.ly/PC-Tester | iex
 ```
 
+O para Linux:
+```bash
+curl -sL https://bit.ly/PC-Tester-sh | bash
+```
+
 ### Paso 3: ¡Listo! Analiza los Resultados
 Presiona la tecla Enter.
 
